@@ -1,0 +1,21 @@
+# Secrets — never commit your API key
+.env
+.env.local
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Run artifacts (the committed results/ snapshot is intentional; ignore logs)
+results/run.log
+results/*.tmp
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

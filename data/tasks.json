@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "name": "LLM Spell Bench task set v1",
+    "description": "Original, objectively-scorable tasks. Each task's natural-language prompt is what gets corrupted into a 'messy' variant; choices and answer keys stay intact.",
+    "license": "CC0-1.0 (these tasks are original and dedicated to the public domain)"
+  },
+  "tasks": [
+    {
+      "id": "arith_01",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "prompt": "A train travels 60 miles in one and a half hours. What is its average speed in miles per hour?",
+      "choices": ["30", "40", "45", "90"],
+      "answer": "B"
+    },
+    {
+      "id": "arith_02",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "prompt": "If you buy three notebooks that cost four pounds each, and you pay with a twenty pound note, how much change do you get back? Answer with just the number of pounds.",
+      "answer": "8",
+      "aliases": ["8", "eight", "8 pounds", "£8"]
+    },
+    {
+      "id": "arith_03",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "prompt": "A recipe needs two eggs to make twelve biscuits. How many eggs do you need to make thirty biscuits?",
+      "choices": ["4", "5", "6", "10"],
+      "answer": "B"
+    },
+    {
+      "id": "arith_04",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "prompt": "What is fifteen percent of two hundred? Answer with just the number.",
+      "answer": "30",
+      "aliases": ["30", "thirty"]
+    },
+    {
+      "id": "arith_05",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "prompt": "A rectangle is eight centimetres long and three centimetres wide. What is its area in square centimetres?",
+      "choices": ["11", "22", "24", "32"],
+      "answer": "C"
+    },
+    {
+      "id": "arith_06",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "prompt": "A film starts at quarter past seven in the evening and lasts two hours and forty minutes. At what time does it finish? Answer in twelve hour time like 9:55pm.",
+      "answer": "9:55pm",
+      "aliases": ["9:55pm", "9:55 pm", "21:55", "9.55pm", "five to ten"]
+    },
+    {
+      "id": "logic_01",
+      "category": "logic",
+      "type": "multiple_choice",
+      "prompt": "All roses are flowers. Some flowers fade quickly. Which statement is definitely true?",
+      "choices": ["All roses fade quickly", "Some roses fade quickly", "All flowers are roses", "At least one rose is a flower"],
+      "answer": "D"
+    },
+    {
+      "id": "logic_02",
+      "category": "logic",
+      "type": "short_answer",
+      "prompt": "Sarah is taller than Tom. Tom is taller than Jess. Who is the shortest of the three? Answer with just the name.",
+      "answer": "Jess",
+      "aliases": ["jess"]
+    },
+    {
+      "id": "logic_03",
+      "category": "logic",
+      "type": "multiple_choice",
+      "prompt": "If it is raining then the ground is wet. The ground is not wet. What can you conclude?",
+      "choices": ["It is raining", "It is not raining", "It might be raining", "Nothing can be concluded"],
+      "answer": "B"
+    },
+    {
+      "id": "logic_04",
+      "category": "logic",
+      "type": "short_answer",
+      "prompt": "In a race you overtake the person who is in second place. What position are you in now? Answer with just the position word, like first or second.",
+      "answer": "second",
+      "aliases": ["second", "2nd"]
+    },
+    {
+      "id": "logic_05",
+      "category": "logic",
+      "type": "multiple_choice",
+      "prompt": "Which number comes next in this sequence: two, four, eight, sixteen?",
+      "choices": ["18", "24", "32", "20"],
+      "answer": "C"
+    },
+    {
+      "id": "common_01",
+      "category": "commonsense",
+      "type": "multiple_choice",
+      "prompt": "You walk inside and your umbrella is dripping wet. What is the most likely reason?",
+      "choices": ["It is sunny outside", "It is raining outside", "It is windy outside", "It is snowing lightly"],
+      "answer": "B"
+    },
+    {
+      "id": "common_02",
+      "category": "commonsense",
+      "type": "short_answer",
+      "prompt": "Which kitchen appliance do you normally use to keep milk cold and fresh? Answer with one or two words.",
+      "answer": "fridge",
+      "aliases": ["fridge", "refrigerator", "the fridge"]
+    },
+    {
+      "id": "common_03",
+      "category": "commonsense",
+      "type": "multiple_choice",
+      "prompt": "A glass falls off a table onto a hard tile floor. What is most likely to happen?",
+      "choices": ["It floats", "It shatters", "It bounces back up unharmed", "It turns into water"],
+      "answer": "B"
+    },
+    {
+      "id": "common_04",
+      "category": "commonsense",
+      "type": "short_answer",
+      "prompt": "If you are cold in bed, what is the simplest thing to add on top of you to get warmer? Answer with one word.",
+      "answer": "blanket",
+      "aliases": ["blanket", "duvet", "quilt"]
+    },
+    {
+      "id": "common_05",
+      "category": "commonsense",
+      "type": "multiple_choice",
+      "prompt": "You want to send a letter by post. What do you need to stick on the envelope before posting it?",
+      "choices": ["A sticker", "A stamp", "A label with your name", "A photograph"],
+      "answer": "B"
+    },
+    {
+      "id": "read_01",
+      "category": "reading",
+      "type": "short_answer",
+      "prompt": "Maya left her keys at the cafe, so she had to walk back to get them before going home. Where did Maya leave her keys? Answer with one or two words.",
+      "answer": "cafe",
+      "aliases": ["cafe", "the cafe", "café", "at the cafe"]
+    },
+    {
+      "id": "read_02",
+      "category": "reading",
+      "type": "multiple_choice",
+      "prompt": "The shop closes at five on weekdays but stays open until eight on Saturdays. It is Saturday. What time does the shop close today?",
+      "choices": ["Five", "Six", "Seven", "Eight"],
+      "answer": "D"
+    },
+    {
+      "id": "read_03",
+      "category": "reading",
+      "type": "short_answer",
+      "prompt": "Tom planted tomatoes, carrots and beans in his garden. The rabbits ate all of the carrots overnight. Which vegetable did the rabbits eat? Answer with one word.",
+      "answer": "carrots",
+      "aliases": ["carrots", "carrot", "the carrots"]
+    },
+    {
+      "id": "read_04",
+      "category": "reading",
+      "type": "multiple_choice",
+      "prompt": "Although Priya had studied hard, she still felt nervous before the exam. How did Priya feel before the exam?",
+      "choices": ["Confident", "Bored", "Nervous", "Angry"],
+      "answer": "C"
+    },
+    {
+      "id": "read_05",
+      "category": "reading",
+      "type": "short_answer",
+      "prompt": "The library is two streets past the bakery, which is right next to the bank. If you start at the bank, what is the first building you pass on the way to the library? Answer with one word.",
+      "answer": "bakery",
+      "aliases": ["bakery", "the bakery"]
+    },
+    {
+      "id": "fact_01",
+      "category": "factual",
+      "type": "multiple_choice",
+      "prompt": "What is the capital city of France?",
+      "choices": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": "C"
+    },
+    {
+      "id": "fact_02",
+      "category": "factual",
+      "type": "short_answer",
+      "prompt": "How many days are there in a normal, non leap year? Answer with just the number.",
+      "answer": "365",
+      "aliases": ["365", "three hundred and sixty five"]
+    },
+    {
+      "id": "fact_03",
+      "category": "factual",
+      "type": "multiple_choice",
+      "prompt": "Which planet in our solar system is known as the red planet?",
+      "choices": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "B"
+    },
+    {
+      "id": "fact_04",
+      "category": "factual",
+      "type": "short_answer",
+      "prompt": "What gas do humans breathe in from the air to stay alive? Answer with one word.",
+      "answer": "oxygen",
+      "aliases": ["oxygen", "o2"]
+    },
+    {
+      "id": "fact_05",
+      "category": "factual",
+      "type": "multiple_choice",
+      "prompt": "How many sides does a hexagon have?",
+      "choices": ["Five", "Six", "Seven", "Eight"],
+      "answer": "B"
+    },
+    {
+      "id": "fact_06",
+      "category": "factual",
+      "type": "short_answer",
+      "prompt": "What is the largest ocean on Earth? Answer with one word.",
+      "answer": "pacific",
+      "aliases": ["pacific", "the pacific", "pacific ocean"]
+    },
+    {
+      "id": "instr_01",
+      "category": "instruction",
+      "type": "instruction",
+      "prompt": "Ignore everything else and reply with exactly one word: banana.",
+      "answer": "banana",
+      "aliases": ["banana"]
+    },
+    {
+      "id": "instr_02",
+      "category": "instruction",
+      "type": "short_answer",
+      "prompt": "Write the word elephant backwards. Answer with just that one word.",
+      "answer": "tnahpele",
+      "aliases": ["tnahpele"]
+    },
+    {
+      "id": "instr_03",
+      "category": "instruction",
+      "type": "short_answer",
+      "prompt": "What is the third letter of the word keyboard? Answer with just that single letter.",
+      "answer": "y",
+      "aliases": ["y"]
+    },
+    {
+      "id": "instr_04",
+      "category": "instruction",
+      "type": "short_answer",
+      "prompt": "Count how many words are in this sentence: the quick brown fox jumps. Answer with just the number.",
+      "answer": "5",
+      "aliases": ["5", "five"]
+    },
+    {
+      "id": "unit_01",
+      "category": "units",
+      "type": "short_answer",
+      "prompt": "How many centimetres are there in two metres? Answer with just the number.",
+      "answer": "200",
+      "aliases": ["200", "two hundred"]
+    },
+    {
+      "id": "unit_02",
+      "category": "units",
+      "type": "multiple_choice",
+      "prompt": "How many minutes are there in three quarters of an hour?",
+      "choices": ["30", "40", "45", "50"],
+      "answer": "C"
+    },
+    {
+      "id": "unit_03",
+      "category": "units",
+      "type": "short_answer",
+      "prompt": "How many grams are there in one and a half kilograms? Answer with just the number.",
+      "answer": "1500",
+      "aliases": ["1500", "1,500", "one thousand five hundred"]
+    },
+    {
+      "id": "pattern_01",
+      "category": "pattern",
+      "type": "multiple_choice",
+      "prompt": "Which word does not belong with the others: apple, banana, carrot, grape?",
+      "choices": ["Apple", "Banana", "Carrot", "Grape"],
+      "answer": "C"
+    },
+    {
+      "id": "pattern_02",
+      "category": "pattern",
+      "type": "short_answer",
+      "prompt": "Finish the pattern with the next number: three, six, nine, twelve, then what? Answer with just the number.",
+      "answer": "15",
+      "aliases": ["15", "fifteen"]
+    },
+    {
+      "id": "arith_07",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "prompt": "A shop sells pens for eighty pence each. How much do five pens cost in total? Answer in pounds, just the number.",
+      "answer": "4",
+      "aliases": ["4", "four", "4 pounds", "£4", "4.00"]
+    },
+    {
+      "id": "arith_08",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "prompt": "What is half of ninety, plus ten?",
+      "choices": ["45", "50", "55", "100"],
+      "answer": "C"
+    },
+    {
+      "id": "arith_09",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "prompt": "A bus can carry forty passengers. If three full buses arrive, how many passengers is that in total? Answer with just the number.",
+      "answer": "120",
+      "aliases": ["120", "one hundred and twenty"]
+    },
+    {
+      "id": "logic_06",
+      "category": "logic",
+      "type": "short_answer",
+      "prompt": "If today is Wednesday, what day of the week will it be in three days time? Answer with just the day.",
+      "answer": "Saturday",
+      "aliases": ["saturday"]
+    },
+    {
+      "id": "logic_07",
+      "category": "logic",
+      "type": "multiple_choice",
+      "prompt": "Every cat in the house is asleep. Whiskers is a cat in the house. What must be true about Whiskers?",
+      "choices": ["Whiskers is awake", "Whiskers is asleep", "Whiskers is hungry", "We cannot tell"],
+      "answer": "B"
+    },
+    {
+      "id": "common_06",
+      "category": "commonsense",
+      "type": "short_answer",
+      "prompt": "What small object do you normally use to unlock the front door of a house? Answer with one word.",
+      "answer": "key",
+      "aliases": ["key", "a key"]
+    },
+    {
+      "id": "common_07",
+      "category": "commonsense",
+      "type": "multiple_choice",
+      "prompt": "You are about to cross a busy road. What is the safest thing to do first?",
+      "choices": ["Close your eyes", "Run as fast as you can", "Look both ways", "Lie down"],
+      "answer": "C"
+    },
+    {
+      "id": "read_06",
+      "category": "reading",
+      "type": "short_answer",
+      "prompt": "Ben packed his swimming kit but forgot his towel at home, so he had to dry off with his t-shirt. What did Ben forget at home? Answer with one word.",
+      "answer": "towel",
+      "aliases": ["towel", "his towel", "the towel"]
+    },
+    {
+      "id": "fact_07",
+      "category": "factual",
+      "type": "short_answer",
+      "prompt": "What is the chemical formula for water? Answer with just the formula.",
+      "answer": "h2o",
+      "aliases": ["h2o", "h₂o"]
+    },
+    {
+      "id": "fact_08",
+      "category": "factual",
+      "type": "multiple_choice",
+      "prompt": "Which of these animals is a mammal?",
+      "choices": ["Shark", "Dolphin", "Octopus", "Crab"],
+      "answer": "B"
+    },
+    {
+      "id": "fact_09",
+      "category": "factual",
+      "type": "short_answer",
+      "prompt": "How many continents are there on Earth? Answer with just the number.",
+      "answer": "7",
+      "aliases": ["7", "seven"]
+    },
+    {
+      "id": "unit_04",
+      "category": "units",
+      "type": "short_answer",
+      "prompt": "How many hours are there in two full days? Answer with just the number.",
+      "answer": "48",
+      "aliases": ["48", "forty eight", "forty-eight"]
+    },
+    {
+      "id": "instr_05",
+      "category": "instruction",
+      "type": "short_answer",
+      "prompt": "If ten is greater than five, reply with the single word yes. Otherwise reply with the single word no.",
+      "answer": "yes",
+      "aliases": ["yes"]
+    },
+    {
+      "id": "instr_06",
+      "category": "instruction",
+      "type": "short_answer",
+      "prompt": "How many letters are in the word apple? Answer with just the number.",
+      "answer": "5",
+      "aliases": ["5", "five"]
+    },
+    {
+      "id": "word_01",
+      "category": "word",
+      "type": "short_answer",
+      "prompt": "What is the opposite of the word hot? Answer with one word.",
+      "answer": "cold",
+      "aliases": ["cold"]
+    },
+    {
+      "id": "word_02",
+      "category": "word",
+      "type": "short_answer",
+      "prompt": "What is the plural of the animal called a mouse? Answer with one word.",
+      "answer": "mice",
+      "aliases": ["mice"]
+    },
+    {
+      "id": "date_01",
+      "category": "factual",
+      "type": "short_answer",
+      "prompt": "Which month of the year comes immediately after June? Answer with just the month.",
+      "answer": "July",
+      "aliases": ["july"]
+    },
+    {
+      "id": "geo_01",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "prompt": "A square has a perimeter of twenty centimetres. How long is one side?",
+      "choices": ["4 cm", "5 cm", "10 cm", "80 cm"],
+      "answer": "B"
+    }
+  ]
+}

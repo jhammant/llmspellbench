@@ -1,0 +1,37 @@
+{
+  "backends": {
+    "openrouter": {
+      "base_url": "https://openrouter.ai/api/v1",
+      "api_key_env": "OPENROUTER_API_KEY",
+      "concurrency": 8,
+      "timeout": 120
+    },
+    "lmstudio": {
+      "base_url": "http://localhost:1234/v1",
+      "api_key_env": "LMSTUDIO_API_KEY",
+      "api_key_default": "lm-studio",
+      "concurrency": 1,
+      "timeout": 300
+    }
+  },
+  "models": [
+    {"key": "gpt-5.5",            "label": "GPT-5.5",              "vendor": "OpenAI",   "backend": "openrouter", "model": "openai/gpt-5.5",                   "size_hint": "frontier", "enabled": true},
+    {"key": "claude-sonnet-4.6", "label": "Claude Sonnet 4.6",    "vendor": "Anthropic","backend": "openrouter", "model": "anthropic/claude-sonnet-4.6",      "size_hint": "frontier", "enabled": true},
+    {"key": "claude-haiku-4.5",  "label": "Claude Haiku 4.5",     "vendor": "Anthropic","backend": "openrouter", "model": "anthropic/claude-haiku-4.5",       "size_hint": "small",    "enabled": true},
+    {"key": "gemini-flash-lite", "label": "Gemini 2.5 Flash-Lite","vendor": "Google",   "backend": "openrouter", "model": "google/gemini-2.5-flash-lite",     "size_hint": "tiny",     "enabled": true},
+    {"key": "gpt-4o-mini",       "label": "GPT-4o mini",          "vendor": "OpenAI",   "backend": "openrouter", "model": "openai/gpt-4o-mini",               "size_hint": "small",    "enabled": true},
+    {"key": "gpt-4.1-mini",      "label": "GPT-4.1 mini",         "vendor": "OpenAI",   "backend": "openrouter", "model": "openai/gpt-4.1-mini",              "size_hint": "small",    "enabled": true},
+    {"key": "llama-3.3-70b",     "label": "Llama 3.3 70B",        "vendor": "Meta",     "backend": "openrouter", "model": "meta-llama/llama-3.3-70b-instruct","size_hint": "large",    "enabled": true},
+    {"key": "llama-3.1-8b",      "label": "Llama 3.1 8B",         "vendor": "Meta",     "backend": "openrouter", "model": "meta-llama/llama-3.1-8b-instruct", "size_hint": "tiny",     "enabled": true},
+    {"key": "deepseek-v3.1",     "label": "DeepSeek V3.1",        "vendor": "DeepSeek", "backend": "openrouter", "model": "deepseek/deepseek-chat-v3.1",      "size_hint": "large",    "enabled": true},
+    {"key": "qwen-2.5-7b",       "label": "Qwen 2.5 7B",          "vendor": "Alibaba",  "backend": "openrouter", "model": "qwen/qwen-2.5-7b-instruct",        "size_hint": "tiny",     "enabled": true},
+    {"key": "mistral-small",     "label": "Mistral Small",        "vendor": "Mistral",  "backend": "openrouter", "model": "mistralai/mistral-small-2603",     "size_hint": "small",    "enabled": true},
+    {"key": "nova-lite",         "label": "Nova Lite",            "vendor": "Amazon",   "backend": "openrouter", "model": "amazon/nova-lite-v1",              "size_hint": "small",    "enabled": true},
+    {"key": "glm-5.2",           "label": "GLM-5.2",              "vendor": "Z.ai",     "backend": "openrouter", "model": "z-ai/glm-5.2",                     "size_hint": "frontier", "enabled": true},
+    {"key": "glm-4.7-flash",     "label": "GLM-4.7 Flash",        "vendor": "Z.ai",     "backend": "openrouter", "model": "z-ai/glm-4.7-flash",               "size_hint": "small",    "enabled": true},
+
+    {"key": "gpt-oss-20b-local", "label": "GPT-OSS 20B (local)",  "vendor": "Local",    "backend": "lmstudio",   "model": "openai/gpt-oss-20b",               "size_hint": "small",    "enabled": true},
+    {"key": "qwen3.6-27b-local", "label": "Qwen3.6 27B (local)",  "vendor": "Local",    "backend": "lmstudio",   "model": "qwen/qwen3.6-27b",                 "size_hint": "mid",      "enabled": true},
+    {"key": "glm-4.7-flash-local","label": "GLM-4.7 Flash (local)","vendor": "Local",   "backend": "lmstudio",   "model": "zai-org/glm-4.7-flash",            "size_hint": "small",    "enabled": false, "note": "local GLM does hidden reasoning (~13s/call) — too slow for a full sweep; enable for a small --limit run"}
+  ]
+}

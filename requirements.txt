@@ -1,0 +1,5 @@
+# LLM Spell Bench has NO third-party dependencies — it uses the Python standard
+# library only (urllib, json, concurrent.futures). Python 3.10+ is required.
+#
+# There is nothing to pip install. This file exists so tooling knows the project
+# is intentionally dependency-free.
