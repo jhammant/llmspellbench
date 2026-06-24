@@ -111,30 +111,36 @@
     </section>
 
     <section class="predictor" aria-labelledby="pred-h">
-      <h2 id="pred-h">Try it: predict your own</h2>
+      <h2 id="pred-h">Try it: type it badly, see if it still works</h2>
       <p class="section-sub">
-        Type a question the way you'd really type it, then drag the dial to match how messy your
-        spelling tends to get. We mangle your words to that level and predict — from the measured
-        curves above — how well the models would still understand you. All in your browser.
+        Type a question in the box — and <strong>spell it as badly as you like</strong>. We count how
+        many of your words look misspelled, then predict — from the measured curves above — how well the
+        AI models would still understand you. Nothing leaves your browser.
       </p>
 
       <div class="predictor-card">
-        <label class="field-label" for="pred-input">Your question</label>
-        <textarea id="pred-input" class="pred-input" rows="2" spellcheck="false">How many minutes are there in three quarters of an hour?</textarea>
+        <label class="field-label" for="pred-input">✍️ Your question (misspell it on purpose!)</label>
+        <textarea id="pred-input" class="pred-input" rows="2" spellcheck="false">How mny minits are in three quaters of an our?</textarea>
 
-        <div class="slider-row">
-          <label for="pred-slider">How messy is your typing?</label>
-          <input id="pred-slider" type="range" min="0" max="100" value="55" step="1" />
-          <output id="pred-slider-val" for="pred-slider">55%</output>
+        <div class="example-chips">
+          <span class="chips-label">Or load an example:</span>
+          <button type="button" class="chip" data-level="clean">😌 Perfect spelling</button>
+          <button type="button" class="chip" data-level="light">✏️ A few typos</button>
+          <button type="button" class="chip" data-level="heavy">🌀 Really messy</button>
         </div>
 
-        <div class="pred-output">
-          <div class="pred-messy-box">
-            <span class="pred-mini-label">What the model sees</span>
-            <p id="pred-messy" class="pred-messy"></p>
+        <div class="pred-grid">
+          <div class="messy-meter">
+            <span class="pred-mini-label">How messy your text looks</span>
+            <div class="meter-row">
+              <div class="meter-bar"><div class="meter-fill" id="meter-fill"></div></div>
+              <span class="meter-val" id="meter-val">—</span>
+            </div>
+            <p class="meter-note" id="meter-note"></p>
           </div>
+
           <div class="pred-gauge">
-            <span class="pred-mini-label">Predicted understanding</span>
+            <span class="pred-mini-label">Predicted AI understanding</span>
             <div class="gauge-num" id="pred-gauge-num">—</div>
             <div class="gauge-bar"><div class="gauge-fill" id="pred-gauge-fill"></div></div>
             <p class="gauge-verdict" id="pred-verdict"></p>
@@ -142,11 +148,11 @@
         </div>
 
         <details class="pred-detail">
-          <summary>Per-model prediction at this messiness</summary>
+          <summary>How well each model would understand it</summary>
           <ul id="pred-model-list" class="pred-model-list"></ul>
         </details>
       </div>
-      <p class="caption">Predictions interpolate the benchmark's measured curves. It's an estimate from real data, not a live model call — your text never leaves your browser.</p>
+      <p class="caption">"Messiness" = the share of your words our dictionary doesn't recognise. The prediction interpolates the benchmark's real measured curves — it's an estimate from data, not a live model call.</p>
     </section>
 
     <section class="method" aria-labelledby="method-h">
@@ -202,6 +208,7 @@
   </footer>
 
   <script src="data/leaderboard.js"></script>
+  <script src="data/words.js"></script>
   <script src="corruptor.js"></script>
   <script src="app.js"></script>
 </body>

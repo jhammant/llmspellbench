@@ -216,37 +216,61 @@
       `${Math.round((worst.retention || 0) * 100)}% of their accuracy on average. Each faint line is one model; the bold line is the average.`;
   }
 
-  /* ---------- interactive predictor ---------- */
+  /* ---------- interactive predictor (driven by what YOU type) ---------- */
   const inputEl = document.getElementById("pred-input");
-  const slider = document.getElementById("pred-slider");
-  const sliderVal = document.getElementById("pred-slider-val");
-  const messyEl = document.getElementById("pred-messy");
+  const meterFill = document.getElementById("meter-fill");
+  const meterVal = document.getElementById("meter-val");
+  const meterNote = document.getElementById("meter-note");
   const gaugeNum = document.getElementById("pred-gauge-num");
   const gaugeFill = document.getElementById("pred-gauge-fill");
   const verdictEl = document.getElementById("pred-verdict");
   const modelListEl = document.getElementById("pred-model-list");
 
+  const DICT = new Set((window.SPELL_WORDS || "").split(" "));
+  const BASE = "How many minutes are there in three quarters of an hour?";
+
+  // Messiness = share of real words our dictionary doesn't recognise. Mirrors
+  // the corruptor, which mangles roughly this fraction of words.
+  function estimateMessiness(text) {
+    const tokens = (text.toLowerCase().match(/[a-z']{1,}/g) || []).filter((w) => w.length >= 2);
+    if (!tokens.length) return { intensity: 0, messy: 0, total: 0 };
+    let messy = 0;
+    for (const w of tokens) {
+      const bare = w.replace(/'/g, "");
+      if (!DICT.has(w) && !DICT.has(bare)) messy++;
+    }
+    return { intensity: messy / tokens.length, messy, total: tokens.length };
+  }
+
   function verdictFor(r) {
-    if (r >= 0.95) return ["Basically no problem.", "They'd understand you almost perfectly."];
-    if (r >= 0.85) return ["Still understood well.", "Only a small dip — spelling barely matters here."];
-    if (r >= 0.7) return ["Mostly fine.", "Understanding slips a little, but most gets through."];
-    if (r >= 0.5) return ["Getting hard.", "Even for AI this is rough — but half still lands."];
-    return ["Extreme.", "This is near-unreadable; even AI struggles."];
+    if (r >= 0.97) return ["Perfectly clear.", "Spelling like this costs the models nothing."];
+    if (r >= 0.9) return ["No real problem.", "They'd understand you almost perfectly."];
+    if (r >= 0.8) return ["Understood well.", "A small dip — your spelling barely matters."];
+    if (r >= 0.65) return ["Mostly fine.", "It slips a little, but most of your meaning gets through."];
+    if (r >= 0.45) return ["Getting hard.", "This is rough even for AI — but a lot still lands."];
+    return ["Extreme.", "Almost unreadable — even AI struggles here."];
   }
 
   function updatePredictor() {
-    const intensity = (slider ? +slider.value : 55) / 100;
-    if (sliderVal) sliderVal.textContent = Math.round(intensity * 100) + "%";
-    const text = (inputEl && inputEl.value.trim()) || "How many minutes are there in three quarters of an hour?";
+    const text = (inputEl && inputEl.value) || "";
+    const { intensity, messy, total } = estimateMessiness(text || BASE);
 
-    if (window.SpellCorruptor && messyEl) {
-      messyEl.textContent = intensity === 0 ? text : window.SpellCorruptor.corrupt(text, 42, intensity);
+    // messiness meter
+    const mpct = Math.round(intensity * 100);
+    if (meterFill) meterFill.style.width = mpct + "%";
+    if (meterVal) meterVal.textContent = mpct + "%";
+    if (meterNote) {
+      meterNote.textContent = total
+        ? `${messy} of ${total} words look misspelled.`
+        : "Type something to see.";
     }
 
+    // predicted understanding from the measured average curve
     const r = retentionAt(avgCurve, intensity);
     const rv = r == null ? 1 : Math.min(1, r);
-    if (gaugeNum) gaugeNum.textContent = Math.round(rv * 100) + "%";
-    if (gaugeFill) gaugeFill.style.width = Math.round(rv * 100) + "%";
+    const rpct = Math.round(rv * 100);
+    if (gaugeNum) gaugeNum.textContent = rpct + "%";
+    if (gaugeFill) gaugeFill.style.width = rpct + "%";
     if (verdictEl) {
       const [head, sub] = verdictFor(rv);
       verdictEl.innerHTML = `<strong>${head}</strong> ${sub}`;
@@ -270,7 +294,19 @@
     }
   }
 
-  if (slider) slider.addEventListener("input", updatePredictor);
+  // Example chips fill the box (typing stays the primary interaction).
+  document.querySelectorAll(".chip").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const lvl = btn.getAttribute("data-level");
+      const c = window.SpellCorruptor;
+      inputEl.value = lvl === "clean" ? BASE
+        : lvl === "light" ? (c ? c.corrupt(BASE, 7, 0.3) : BASE)
+        : (c ? c.corrupt(BASE, 3, 0.85) : BASE);
+      updatePredictor();
+      inputEl.focus();
+    });
+  });
+
   if (inputEl) inputEl.addEventListener("input", updatePredictor);
   updatePredictor();
 

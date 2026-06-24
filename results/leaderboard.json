@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24 23:00 UTC",
+  "generated_at": "2026-06-24 23:20 UTC",
   "config": {
     "n_tasks": 54,
     "intensities": [
@@ -165,6 +165,546 @@
           "intensity": 1.0,
           "acc": 0.9321,
           "retention": 0.9321,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "claude-sonnet-4.6",
+      "label": "Claude Sonnet 4.6",
+      "vendor": "Anthropic",
+      "size_hint": "frontier",
+      "backend": "openrouter",
+      "model_id": "anthropic/claude-sonnet-4.6",
+      "clean_acc": 1.0,
+      "messy_acc": 0.9259,
+      "headline_intensity": 0.6,
+      "retention": 0.9259,
+      "drop": 0.0741,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 1.0,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9877,
+          "retention": 0.9877,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9568,
+          "retention": 0.9568,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.9259,
+          "retention": 0.9259,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.9444,
+          "retention": 0.9444,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.9012,
+          "retention": 0.9012,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "claude-haiku-4.5",
+      "label": "Claude Haiku 4.5",
+      "vendor": "Anthropic",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "anthropic/claude-haiku-4.5",
+      "clean_acc": 0.9444,
+      "messy_acc": 0.8642,
+      "headline_intensity": 0.6,
+      "retention": 0.915,
+      "drop": 0.0802,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9444,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9259,
+          "retention": 0.9804,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.8951,
+          "retention": 0.9477,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8642,
+          "retention": 0.915,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.8704,
+          "retention": 0.9216,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.821,
+          "retention": 0.8693,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "llama-3.3-70b",
+      "label": "Llama 3.3 70B",
+      "vendor": "Meta",
+      "size_hint": "large",
+      "backend": "openrouter",
+      "model_id": "meta-llama/llama-3.3-70b-instruct",
+      "clean_acc": 0.963,
+      "messy_acc": 0.8519,
+      "headline_intensity": 0.6,
+      "retention": 0.8846,
+      "drop": 0.1111,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.963,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9444,
+          "retention": 0.9808,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.8951,
+          "retention": 0.9295,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8519,
+          "retention": 0.8846,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.8642,
+          "retention": 0.8974,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8272,
+          "retention": 0.859,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "deepseek-v3.1",
+      "label": "DeepSeek V3.1",
+      "vendor": "DeepSeek",
+      "size_hint": "large",
+      "backend": "openrouter",
+      "model_id": "deepseek/deepseek-chat-v3.1",
+      "clean_acc": 0.9815,
+      "messy_acc": 0.8642,
+      "headline_intensity": 0.6,
+      "retention": 0.8805,
+      "drop": 0.1173,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9815,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9568,
+          "retention": 0.9748,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9012,
+          "retention": 0.9182,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8642,
+          "retention": 0.8805,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.8765,
+          "retention": 0.8931,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8333,
+          "retention": 0.8491,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "gpt-4o-mini",
+      "label": "GPT-4o mini",
+      "vendor": "OpenAI",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "openai/gpt-4o-mini",
+      "clean_acc": 0.963,
+      "messy_acc": 0.8457,
+      "headline_intensity": 0.6,
+      "retention": 0.8782,
+      "drop": 0.1173,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.963,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.8765,
+          "retention": 0.9103,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.8765,
+          "retention": 0.9103,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8457,
+          "retention": 0.8782,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.8148,
+          "retention": 0.8462,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.7963,
+          "retention": 0.8269,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "gemini-flash-lite",
+      "label": "Gemini 2.5 Flash-Lite",
+      "vendor": "Google",
+      "size_hint": "tiny",
+      "backend": "openrouter",
+      "model_id": "google/gemini-2.5-flash-lite",
+      "clean_acc": 1.0,
+      "messy_acc": 0.8765,
+      "headline_intensity": 0.6,
+      "retention": 0.8765,
+      "drop": 0.1235,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 1.0,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9691,
+          "retention": 0.9691,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9259,
+          "retention": 0.9259,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8765,
+          "retention": 0.8765,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.9198,
+          "retention": 0.9198,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.9074,
+          "retention": 0.9074,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "mistral-small",
+      "label": "Mistral Small",
+      "vendor": "Mistral",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "mistralai/mistral-small-2603",
+      "clean_acc": 0.9259,
+      "messy_acc": 0.8086,
+      "headline_intensity": 0.6,
+      "retention": 0.8733,
+      "drop": 0.1173,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9259,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9074,
+          "retention": 0.98,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.858,
+          "retention": 0.9267,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8086,
+          "retention": 0.8733,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.7901,
+          "retention": 0.8533,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.7346,
+          "retention": 0.7933,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "gpt-4.1-mini",
+      "label": "GPT-4.1 mini",
+      "vendor": "OpenAI",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "openai/gpt-4.1-mini",
+      "clean_acc": 0.9815,
+      "messy_acc": 0.8272,
+      "headline_intensity": 0.6,
+      "retention": 0.8428,
+      "drop": 0.1543,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9815,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9568,
+          "retention": 0.9748,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9012,
+          "retention": 0.9182,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8272,
+          "retention": 0.8428,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.8519,
+          "retention": 0.8679,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.821,
+          "retention": 0.8365,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "qwen-2.5-7b",
+      "label": "Qwen 2.5 7B",
+      "vendor": "Alibaba",
+      "size_hint": "tiny",
+      "backend": "openrouter",
+      "model_id": "qwen/qwen-2.5-7b-instruct",
+      "clean_acc": 0.8148,
+      "messy_acc": 0.6667,
+      "headline_intensity": 0.6,
+      "retention": 0.8182,
+      "drop": 0.1481,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.8148,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.7778,
+          "retention": 0.9545,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.7222,
+          "retention": 0.8864,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.6667,
+          "retention": 0.8182,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.642,
+          "retention": 0.7879,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.5864,
+          "retention": 0.7197,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "llama-3.1-8b",
+      "label": "Llama 3.1 8B",
+      "vendor": "Meta",
+      "size_hint": "tiny",
+      "backend": "openrouter",
+      "model_id": "meta-llama/llama-3.1-8b-instruct",
+      "clean_acc": 0.8333,
+      "messy_acc": 0.6235,
+      "headline_intensity": 0.6,
+      "retention": 0.7481,
+      "drop": 0.2099,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.8333,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.7037,
+          "retention": 0.8444,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.6543,
+          "retention": 0.7852,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.6235,
+          "retention": 0.7481,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.5617,
+          "retention": 0.6741,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.4444,
+          "retention": 0.5333,
           "n": 162
         }
       ],
