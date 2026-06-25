@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24 23:50 UTC",
+  "generated_at": "2026-06-25 00:39 UTC",
   "records": [
     {
       "task_id": "arith_01",
@@ -123480,6 +123480,2526 @@
       "response": "15",
       "error": null,
       "model_key": "gpt-oss-20b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 500: {\"error\": {\"message\": \"HTTP Error 500: Internal Server Error\"}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.3,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.3,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "",
+      "error": "HTTP 400: {\"error\": {\"message\": \"Failed to load model \\\"qwen/qwen3.6-27b\\\". Error: Operation canceled.\", \"type\": \"invalid_request_error\", \"param\": \"model\", \"code\": null}}",
+      "model_key": "qwen3.6-27b-local"
     }
   ]
 }

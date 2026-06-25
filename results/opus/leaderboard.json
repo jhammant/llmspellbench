@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-06-25 00:15 UTC",
+  "config": {
+    "n_tasks": 54,
+    "intensities": [
+      0.0,
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.0
+    ],
+    "headline_intensity": 0.6,
+    "trials": 3,
+    "seed": 7,
+    "system_profile": "baseline",
+    "metric": "spelling resilience = messy_accuracy / clean_accuracy"
+  },
+  "examples": [
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "clean": "A train travels 60 miles in one and a half hours. What is its average speed in miles per hour?",
+      "messy": "A train travels 60 miles in onne and a half hours. What is its avrage speeed in moles per hur?",
+      "messy_extreme": "a traain travles 60 mils in one and a haalf horus. waht is it's avrage sperd in mikes prr huor",
+      "choices": [
+        "30",
+        "40",
+        "45",
+        "90"
+      ],
+      "answer": "B"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "clean": "If you buy three notebooks that cost four pounds each, and you pay with a twenty pound note, how much change do you get back? Answer with just the number of pounds.",
+      "messy": "if ypu by there notebooks that cost four ponds ech and you psy with a twenty pound noe, how much chnge do you get back? answer with just the number off pounds.",
+      "messy_extreme": "if you by thrree noteboks taht csot foour ponds eah and yiu pay wtih a twennty poud ntoe how mcuh cjange do you gett backk? anser wiyh jsut the numner of poumds.",
+      "choices": null,
+      "answer": "8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "clean": "A recipe needs two eggs to make twelve biscuits. How many eggs do you need to make thirty biscuits?",
+      "messy": "a reccipe needs too eggs too make twelve biscuits. hpw many eggs do you need too make thirty biscits",
+      "messy_extreme": "a rcipe neds too eggs too makee twekve biscits. howw mny egggs do youu ned too mkae thirtyy biscits",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": "B"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "clean": "What is fifteen percent of two hundred? Answer with just the number.",
+      "messy": "Waht is fifteen prrcent off too hundred? Answer with jist the number.",
+      "messy_extreme": "Waht is fiften prcent off too hndred Anser wiith jsut tge nuber",
+      "choices": null,
+      "answer": "30"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "clean": "A rectangle is eight centimetres long and three centimetres wide. What is its area in square centimetres?",
+      "messy": "A recatngle is eigght centimeters long abd three centimetres wide. Waht is itts area in square centimetres?",
+      "messy_extreme": "A rectange is eightt centimeters lpng annd thre centimeters wdie Waht is it's arrea in sqare centimeters?",
+      "choices": [
+        "11",
+        "22",
+        "24",
+        "32"
+      ],
+      "answer": "C"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "clean": "A film starts at quarter past seven in the evening and lasts two hours and forty minutes. At what time does it finish? Answer in twelve hour time like 9:55pm.",
+      "messy": "a film starts at quarrter past seeven in the evening and laats too hors and fory minutes. at what tmie does it fimish? anser in twelve hour timee lile 9:55pm.",
+      "messy_extreme": "a folm satrts at quarrer paast seveen in the eveinng andd lssts too huors and foty minuts. at waht timee dpes it finush? anser in tweve hoyr tie luke 9:55pm.",
+      "choices": null,
+      "answer": "9:55pm"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "type": "multiple_choice",
+      "clean": "All roses are flowers. Some flowers fade quickly. Which statement is definitely true?",
+      "messy": "akl roses are floewrs. some flowers fade quickly. which statement is definately true?",
+      "messy_extreme": "akl rooses are flwoers. sme flowres fdae quikly. wich ststement is definately ture",
+      "choices": [
+        "All roses fade quickly",
+        "Some roses fade quickly",
+        "All flowers are roses",
+        "At least one rose is a flower"
+      ],
+      "answer": "D"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "type": "short_answer",
+      "clean": "Sarah is taller than Tom. Tom is taller than Jess. Who is the shortest of the three? Answer with just the name.",
+      "messy": "sarah is tallerr then tim tom is taller then jess. who is the shortest of the thre? answer wtih jusst the name.",
+      "messy_extreme": "Saarh is talelr then Tomm. Tom is talelr then Jesss. Whho is thhe sgortest off tje thrwe? Anser wtih jusst the nane",
+      "choices": null,
+      "answer": "Jess"
+    }
+  ],
+  "models": [
+    {
+      "key": "claude-opus-4.8",
+      "label": "Claude Opus 4.8",
+      "vendor": "Anthropic",
+      "size_hint": "frontier",
+      "backend": "openrouter",
+      "model_id": "anthropic/claude-opus-4.8",
+      "clean_acc": 1.0,
+      "messy_acc": 0.9568,
+      "headline_intensity": 0.6,
+      "retention": 0.9568,
+      "drop": 0.0432,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 1.0,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9877,
+          "retention": 0.9877,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9815,
+          "retention": 0.9815,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.9568,
+          "retention": 0.9568,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.9444,
+          "retention": 0.9444,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.9259,
+          "retention": 0.9259,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    }
+  ]
+}

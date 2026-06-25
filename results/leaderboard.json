@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24 23:50 UTC",
+  "generated_at": "2026-06-25 00:39 UTC",
   "config": {
     "n_tasks": 54,
     "intensities": [
@@ -165,6 +165,60 @@
           "intensity": 1.0,
           "acc": 0.9444,
           "retention": 0.9623,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "claude-opus-4.8",
+      "label": "Claude Opus 4.8",
+      "vendor": "Anthropic",
+      "size_hint": "frontier",
+      "backend": "openrouter",
+      "model_id": "anthropic/claude-opus-4.8",
+      "clean_acc": 1.0,
+      "messy_acc": 0.9568,
+      "headline_intensity": 0.6,
+      "retention": 0.9568,
+      "drop": 0.0432,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 1.0,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9877,
+          "retention": 0.9877,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9815,
+          "retention": 0.9815,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.9568,
+          "retention": 0.9568,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.9444,
+          "retention": 0.9444,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.9259,
+          "retention": 0.9259,
           "n": 162
         }
       ],

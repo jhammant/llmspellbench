@@ -41,30 +41,33 @@ words mangled) models retain about 83% of their accuracy on average.
 | # | Model | Vendor | Clean | Resilience |
 |---|---|---|---|---|
 | 1 | GLM-5.2 | Z.ai | 98% | **97%** |
-| 2 | GPT-5.5 | OpenAI | 100% | 93% |
-| 3 | GLM-4.7 Flash | Z.ai | 98% | 93% |
-| 4 | Claude Sonnet 4.6 | Anthropic | 100% | 93% |
-| 5 | Claude Haiku 4.5 | Anthropic | 94% | 92% |
-| 6 | GPT-OSS 20B (local) | Local | 94% | 91% |
-| 7 | Nova Lite | Amazon | 93% | 89% |
-| 8 | Llama 3.3 70B | Meta | 96% | 88% |
-| 9 | DeepSeek V3.1 | DeepSeek | 98% | 88% |
-| 10 | GPT-4o mini | OpenAI | 96% | 88% |
-| 11 | Gemini 2.5 Flash-Lite | Google | 100% | 88% |
-| 12 | Mistral Small | Mistral | 93% | 87% |
-| 13 | GPT-4.1 mini | OpenAI | 98% | 84% |
-| 14 | Qwen 2.5 7B | Alibaba | 81% | 82% |
-| 15 | Llama 3.1 8B | Meta | 83% | **75%** |
+| 2 | Claude Opus 4.8 | Anthropic | 100% | 96% |
+| 3 | GPT-5.5 | OpenAI | 100% | 93% |
+| 4 | GLM-4.7 Flash | Z.ai | 98% | 93% |
+| 5 | Claude Sonnet 4.6 | Anthropic | 100% | 93% |
+| 6 | Claude Haiku 4.5 | Anthropic | 94% | 92% |
+| 7 | GPT-OSS 20B (local) | Local | 94% | 91% |
+| 8 | Nova Lite | Amazon | 93% | 89% |
+| 9 | Llama 3.3 70B | Meta | 96% | 88% |
+| 10 | DeepSeek V3.1 | DeepSeek | 98% | 88% |
+| 11 | GPT-4o mini | OpenAI | 96% | 88% |
+| 12 | Gemini 2.5 Flash-Lite | Google | 100% | 88% |
+| 13 | Mistral Small | Mistral | 93% | 87% |
+| 14 | GPT-4.1 mini | OpenAI | 98% | 84% |
+| 15 | Qwen 2.5 7B | Alibaba | 81% | 82% |
+| 16 | Llama 3.1 8B | Meta | 83% | **75%** |
 
 *Resilience = messy accuracy ÷ clean accuracy (100% = messy spelling cost nothing).
-Claude Opus 4.8 and the local Qwen3.6 27B are still being added; the
-[live leaderboard](https://jhammant.github.io/llmspellbench/) is always current.*
+Run via OpenRouter + a local model in LM Studio. The
+[live leaderboard](https://jhammant.github.io/llmspellbench/) is always current.
+(Qwen3.6 27B was also tested locally but LM Studio failed to load it this run, so
+it is omitted.)*
 
 ### Does telling it you're dyslexic help?
 
 We re-ran the messy questions with one change: a system-prompt line saying *"the
 person is dyslexic and may misspell things, focus on what they mean."* It made
-**almost no difference** — +0.8 points at 60% mangling, −0.8 at 100%, both within
+**almost no difference** — +0.8 points at 60% mangling, -0.8 at 100%, both within
 noise. The models already understand without being told, so there's no need to
 explain or apologise.
 <!-- RESULTS:END -->
@@ -157,8 +160,8 @@ results/           # leaderboard.json + raw_results.json (committed snapshot)
 
 - It's a **small** task set — a demonstration, not a definitive ranking. Treat
   the numbers as indicative and re-run with your own tasks.
-- Corruption intensity (`--intensity`, default 0.5) is a knob; harder settings
-  separate models more.
+- Corruption is swept from 0% to 100% of words mangled (`--sweep`); the headline
+  figure uses the 60% level (`--intensity`). Harder settings separate models more.
 - Model behaviour drifts over time, so results are stamped with a run date.
 - This measures *understanding despite messy spelling* — not whether a model can
   spell, and not reading ease for humans.

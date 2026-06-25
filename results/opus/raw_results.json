@@ -1,0 +1,8645 @@
+{
+  "generated_at": "2026-06-25 00:15 UTC",
+  "records": [
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": false,
+      "response": "170",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "170",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": false,
+      "response": "170",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": false,
+      "response": "170",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "170",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "30",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": false,
+      "response": "170",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "9:55pm",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": false,
+      "response": "jss",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "This question mentions four people (Sarah, Tim, Tom, Jess) but asks about \"the three.\" Based on the comparisons given (Sarah > Tim, Tom > Jess), there isn't enough information to determine who is shortest overall.\n\nIf you meant to compare just the people mentioned, I can't definitively answer\u2014but if",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": false,
+      "response": "Jed",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "There are four people mentioned (Sarah, Tim, Tom, Jess), and the two comparisons don't connect, so it can't be determined.",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "There are only two people compared in each pair, and they don't connect, so it's impossible to determine. But if forced: Jess.",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Jess",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_03",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_04",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Second",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_05",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_01",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_02",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Refrigerator",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_03",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_04",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Blanket",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_05",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "The caf\u00e9",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "The cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "The caf\u00e9",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_01",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "the cafe",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_02",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "D",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_03",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Carrots",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_04",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_05",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Bakery",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_02",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "365",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_03",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_04",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Oxygen",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_05",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_06",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Pacific",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": false,
+      "response": "banama",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "bannana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": false,
+      "response": "bannana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "banana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "bnana",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_01",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": false,
+      "response": "bananaa",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": false,
+      "response": "ttnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_02",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "tnahpele",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": false,
+      "response": "t",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_03",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "y",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": false,
+      "response": "6",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": false,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": false,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": false,
+      "response": "13",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": false,
+      "response": "6",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": false,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "9",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": false,
+      "response": "9",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_04",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": false,
+      "response": "8",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_01",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "200",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_02",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_03",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "1500",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_01",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": false,
+      "response": "24",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "pattern_02",
+      "category": "pattern",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "15",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "400",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_07",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": false,
+      "response": "400",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "\u2423C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_08",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "arith_09",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "120",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_06",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Saturday",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "logic_07",
+      "category": "logic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_06",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Key",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "common_07",
+      "category": "commonsense",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "C",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "read_06",
+      "category": "reading",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Towel",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "H2O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "H2O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "H2O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "H2O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "H\u2082O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "H2O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_07",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "H2O",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_08",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "fact_09",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "7",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "unit_04",
+      "category": "units",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "48",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Yes",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_05",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": false,
+      "response": "yees",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": false,
+      "response": "4",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": false,
+      "response": "6",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "instr_06",
+      "category": "instruction",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "5",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": false,
+      "response": "Miss",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": false,
+      "response": "Miss",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_01",
+      "category": "word",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Cold",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "word_02",
+      "category": "word",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "Mice",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "date_01",
+      "category": "factual",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "July",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.2,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.4,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.6,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 0.8,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 0,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 1,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    },
+    {
+      "task_id": "geo_01",
+      "category": "arithmetic",
+      "intensity": 1.0,
+      "trial": 2,
+      "correct": true,
+      "response": "B",
+      "error": null,
+      "model_key": "claude-opus-4.8"
+    }
+  ]
+}
