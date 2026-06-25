@@ -48,7 +48,7 @@
       </p>
       <div class="hero-cta">
         <a class="btn primary" href="#leaderboard">See the leaderboard</a>
-        <a class="btn ghost" id="repo-link" href="#" target="_blank" rel="noopener">View the source on GitHub</a>
+        <a class="btn ghost" id="repo-link" href="https://github.com/jhammant/llmspellbench" target="_blank" rel="noopener">View the source on GitHub</a>
       </div>
     </section>
 
@@ -67,7 +67,7 @@
           <button id="show-clean" class="seg active" aria-pressed="true">Clean</button>
           <button id="show-messy" class="seg" aria-pressed="false">Messy</button>
         </div>
-        <p class="example-prompt" id="example-prompt" aria-live="polite"></p>
+        <p class="example-prompt" id="example-prompt"></p>
         <p class="example-meta" id="example-meta"></p>
         <button class="btn tiny" id="example-next">Try another →</button>
       </div>
@@ -104,7 +104,7 @@
         falls apart. Flatter line = more forgiving of how you type.
       </p>
       <div class="chart-card">
-        <div id="chart" class="chart" role="img" aria-label="Line chart of accuracy versus spelling corruption level for each model"></div>
+        <div id="chart" class="chart" role="img" aria-describedby="breaking-caption" aria-label="Line chart of accuracy versus spelling corruption level for each model"></div>
         <div id="chart-legend" class="chart-legend"></div>
       </div>
       <p class="caption" id="breaking-caption"></p>
@@ -143,14 +143,14 @@
       </p>
 
       <div class="predictor-card">
-        <label class="field-label" for="pred-input">✍️ Your question (misspell it on purpose!)</label>
+        <label class="field-label" for="pred-input"><span aria-hidden="true">✍️ </span>Your question (misspell it on purpose!)</label>
         <textarea id="pred-input" class="pred-input" rows="2" spellcheck="false">How mny minits are in three quaters of an our?</textarea>
 
         <div class="example-chips">
           <span class="chips-label">Or load an example:</span>
-          <button type="button" class="chip" data-level="clean">😌 Perfect spelling</button>
-          <button type="button" class="chip" data-level="light">✏️ A few typos</button>
-          <button type="button" class="chip" data-level="heavy">🌀 Really messy</button>
+          <button type="button" class="chip" data-level="clean"><span aria-hidden="true">😌 </span>Perfect spelling</button>
+          <button type="button" class="chip" data-level="light"><span aria-hidden="true">✏️ </span>A few typos</button>
+          <button type="button" class="chip" data-level="heavy"><span aria-hidden="true">🌀 </span>Really messy</button>
         </div>
 
         <div class="pred-grid">
@@ -221,7 +221,7 @@
 
   <footer class="footer">
     <p>
-      Open source · <a id="footer-repo" href="#" target="_blank" rel="noopener">github.com/jhammant/llmspellbench</a>
+      Open source · <a id="footer-repo" href="https://github.com/jhammant/llmspellbench" target="_blank" rel="noopener">github.com/jhammant/llmspellbench</a>
       · Run it yourself with one command · MIT licensed
     </p>
     <p class="generated" id="generated-at"></p>

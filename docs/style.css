@@ -204,7 +204,7 @@ tbody tr.top td { background: var(--accent-soft); }
 .grid { stroke: var(--line); stroke-width: 1; }
 .axis-label { fill: var(--muted); font-size: 12px; font-family: var(--font); }
 .axis-title { fill: var(--muted); font-size: 12px; font-family: var(--font); letter-spacing: .02em; }
-.cv-model { fill: none; stroke: var(--ink); stroke-width: 1.5; opacity: .22; }
+.cv-model { fill: none; stroke: var(--ink); stroke-width: 1.5; opacity: .38; }
 .cv-avg { fill: none; stroke: var(--accent); stroke-width: 3.5; stroke-linejoin: round; stroke-linecap: round; }
 .cv-avg-dot { fill: var(--accent); }
 .cv-guide { stroke: var(--warn); stroke-width: 1.5; stroke-dasharray: 4 4; opacity: .8; }
@@ -213,7 +213,7 @@ tbody tr.top td { background: var(--accent-soft); }
 .lg-item { display: inline-flex; align-items: center; gap: .5rem; }
 .lg-swatch { width: 22px; height: 4px; border-radius: 2px; display: inline-block; }
 .lg-swatch.avg { background: var(--accent); height: 5px; }
-.lg-swatch.model { background: var(--ink); opacity: .3; }
+.lg-swatch.model { background: var(--ink); opacity: .45; }
 
 /* ---------- Interactive predictor ---------- */
 .predictor-card { background: var(--surface); border: 1.5px solid var(--line); border-radius: var(--radius); padding: clamp(1.2rem, 3vw, 2rem); box-shadow: var(--shadow); }
@@ -222,23 +222,13 @@ tbody tr.top td { background: var(--accent-soft); }
   width: 100%; font-family: var(--font); font-size: 1.1rem; line-height: 1.6; color: var(--ink);
   background: var(--bg); border: 1.5px solid var(--line); border-radius: 12px; padding: .8rem 1rem; resize: vertical;
 }
-.slider-row { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 1rem; margin: 1.4rem 0; }
-.slider-row label { color: var(--muted); font-size: .95rem; }
-.slider-row output { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--warn); min-width: 3em; text-align: right; }
-input[type="range"] { -webkit-appearance: none; appearance: none; height: 8px; border-radius: 999px; background: linear-gradient(90deg, var(--accent), var(--warn)); outline-offset: 4px; }
-input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 26px; height: 26px; border-radius: 50%; background: var(--surface); border: 3px solid var(--warn); box-shadow: var(--shadow); cursor: pointer; }
-input[type="range"]::-moz-range-thumb { width: 22px; height: 22px; border-radius: 50%; background: var(--surface); border: 3px solid var(--warn); cursor: pointer; }
-
-.pred-output { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
-@media (max-width: 620px) { .pred-output { grid-template-columns: 1fr; } .slider-row { grid-template-columns: 1fr auto; } .slider-row label { grid-column: 1 / -1; } }
-.pred-messy-box, .pred-gauge { background: var(--bg); border: 1.5px solid var(--line); border-radius: 12px; padding: 1.1rem; }
-.pred-messy { font-size: 1.2rem; line-height: 1.6; color: var(--warn); margin: 0; min-height: 2.4em; word-break: break-word; }
+.pred-gauge { background: var(--bg); border: 1.5px solid var(--line); border-radius: 12px; padding: 1.1rem; }
 .gauge-num { font-size: clamp(2.4rem, 7vw, 3.4rem); font-weight: 700; color: var(--accent-ink); line-height: 1; }
 .gauge-bar { height: 12px; background: var(--surface-2); border-radius: 999px; overflow: hidden; margin: .8rem 0; }
 .gauge-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent-ink)); border-radius: 999px; transition: width .15s ease; }
 .gauge-verdict { margin: 0; color: var(--muted); font-size: .95rem; }
 .pred-detail { margin-top: 1.4rem; }
-.pred-detail summary { cursor: pointer; font-weight: 700; color: var(--accent-ink); }
+.pred-detail summary { cursor: pointer; font-weight: 700; color: var(--accent-ink); text-decoration: underline; }
 .pred-model-list { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: .55rem; }
 .pred-model-list li { display: grid; grid-template-columns: minmax(120px, 1.2fr) 2fr auto; align-items: center; gap: .8rem; font-size: .92rem; }
 .pm-name { font-weight: 700; }
@@ -265,4 +255,4 @@ input[type="range"]::-moz-range-thumb { width: 22px; height: 22px; border-radius
 .meter-val { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--warn); min-width: 3em; text-align: right; }
 .meter-note { margin: .3rem 0 0; color: var(--muted); font-size: .9rem; }
 
-:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }

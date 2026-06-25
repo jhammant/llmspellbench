@@ -16,7 +16,9 @@
 
   const savedFont = localStorage.getItem("sb-font");
   if (savedFont) { setFont(savedFont); fontSelect.value = savedFont; }
-  if (localStorage.getItem("sb-theme") === "dark") setDark(true);
+  const savedTheme = localStorage.getItem("sb-theme");
+  const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+  if (savedTheme === "dark" || (!savedTheme && prefersDark)) setDark(true);
 
   function setFont(v) {
     body.classList.remove("font-dyslexic", "font-system");
@@ -58,6 +60,11 @@
   const avg = withRet.reduce((s, m) => s + m.retention, 0) / (withRet.length || 1);
   const kept90 = withRet.filter((m) => m.retention >= 0.9).length;
 
+  if (!withRet.length) {
+    document.getElementById("bigstat-grid").innerHTML =
+      '<div class="stat-card"><div class="label">Results are still being computed — check back shortly.</div></div>';
+  } else {
+
   const cards = [
     {
       feature: true,
@@ -76,6 +83,7 @@
       </div>`
     )
     .join("");
+  }
 
   /* ---------- example card ---------- */
   const examples = data.examples || [];
@@ -214,6 +222,9 @@
     document.getElementById("breaking-caption").textContent =
       `Even at the hardest setting (${Math.round(INTENS[INTENS.length - 1] * 100)}% of words mangled), models still keep about ` +
       `${Math.round((worst.retention || 0) * 100)}% of their accuracy on average. Each faint line is one model; the bold line is the average.`;
+    chartEl.setAttribute("aria-label",
+      `Accuracy stays near 100% for light typos and falls to about ${Math.round((worst.retention || 0) * 100)}% ` +
+      `of clean accuracy when every word is mangled, averaged across ${curveModels.length} models.`);
   }
 
   /* ---------- interactive predictor (driven by what YOU type) ---------- */
