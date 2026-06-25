@@ -32,7 +32,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-from benchmark.runner import run_model
+from benchmark.runner import run_model, SYSTEM_PROMPTS
 from benchmark.corruptor import corrupt
 
 ROOT = Path(__file__).resolve().parent
@@ -152,6 +152,8 @@ def main():
     ap.add_argument("--limit", type=int, default=0, help="limit number of tasks (0 = all)")
     ap.add_argument("--merge", action="store_true",
                     help="keep prior results for models not in this run (combine OpenRouter + local passes)")
+    ap.add_argument("--system-profile", default="baseline", choices=list(SYSTEM_PROMPTS),
+                    help="'aware' tells the model the user is dyslexic and may misspell things")
     ap.add_argument("--smoke", action="store_true", help="quick cheap sanity check")
     args = ap.parse_args()
 
@@ -192,6 +194,7 @@ def main():
         "headline_intensity": args.intensity,
         "trials": args.trials,
         "seed": args.seed,
+        "system_profile": args.system_profile,
         "metric": "spelling resilience = messy_accuracy / clean_accuracy",
     }
     examples = build_examples(tasks, args.seed, intensities)
@@ -232,6 +235,7 @@ def main():
                         seed=args.seed, intensities=intensities, trials=args.trials,
                         concurrency=backend_cfg.get("concurrency", 4),
                         timeout=backend_cfg.get("timeout", 90),
+                        system_prompt=SYSTEM_PROMPTS[args.system_profile],
                         progress=progress)
         agg = aggregate(m, out["records"], args.intensity)
         for r in out["records"]:

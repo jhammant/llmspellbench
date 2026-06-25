@@ -19,3 +19,6 @@ results/*.tmp
 .idea/
 .vscode/
 *.swp
+
+# Intermediate A/B experiment raw records (summaries kept in cmp_*/leaderboard.json)
+results/cmp_*/raw_results.json

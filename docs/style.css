@@ -246,6 +246,12 @@ input[type="range"]::-moz-range-thumb { width: 22px; height: 22px; border-radius
 .pm-fill { display: block; height: 100%; background: var(--accent); border-radius: 999px; }
 .pm-val { font-variant-numeric: tabular-nums; color: var(--muted); min-width: 3em; text-align: right; }
 
+/* ---------- Prompt-effect experiment ---------- */
+.pfx-headline { margin-bottom: 1.6rem; max-width: 640px; }
+.delta-pos { color: var(--accent-ink); font-weight: 700; }
+.delta-neg { color: var(--warn); font-weight: 700; }
+.delta-flat { color: var(--muted); }
+
 .example-chips { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin: 1rem 0 1.4rem; }
 .chips-label { color: var(--muted); font-size: .9rem; margin-right: .2rem; }
 .chip { font-family: inherit; font-size: .92rem; font-weight: 700; cursor: pointer; background: var(--surface-2); color: var(--ink); border: 1.5px solid var(--line); border-radius: 999px; padding: .45rem .95rem; }

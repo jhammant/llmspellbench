@@ -1,0 +1,516 @@
+{
+  "generated_at": "2026-06-24 23:51 UTC",
+  "config": {
+    "n_tasks": 54,
+    "intensities": [
+      0.0,
+      0.6,
+      1.0
+    ],
+    "headline_intensity": 1.0,
+    "trials": 2,
+    "seed": 7,
+    "system_profile": "aware",
+    "metric": "spelling resilience = messy_accuracy / clean_accuracy"
+  },
+  "examples": [
+    {
+      "task_id": "arith_01",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "clean": "A train travels 60 miles in one and a half hours. What is its average speed in miles per hour?",
+      "messy": "A traiin traveels 60 mules in one and a hlaf hours. Waht is iys avrage sped in miles per hor?",
+      "messy_extreme": "a traain travles 60 mils in one and a haalf horus. waht is it's avrage sperd in mikes prr huor",
+      "choices": [
+        "30",
+        "40",
+        "45",
+        "90"
+      ],
+      "answer": "B"
+    },
+    {
+      "task_id": "arith_02",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "clean": "If you buy three notebooks that cost four pounds each, and you pay with a twenty pound note, how much change do you get back? Answer with just the number of pounds.",
+      "messy": "If yiu by thre noteboks taht costt four puonds eaach andd you pay wih a twetny pouund ntoe how muuch change do yiu get back? Anser with jsut the number off puonds",
+      "messy_extreme": "if you by thrree noteboks taht csot foour ponds eah and yiu pay wtih a twennty poud ntoe how mcuh cjange do you gett backk? anser wiyh jsut the numner of poumds.",
+      "choices": null,
+      "answer": "8"
+    },
+    {
+      "task_id": "arith_03",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "clean": "A recipe needs two eggs to make twelve biscuits. How many eggs do you need to make thirty biscuits?",
+      "messy": "a recippe needs too eggs too make twelve biscits. how mnay eggs do yoou neeed too maje thirry biscuits?",
+      "messy_extreme": "a rcipe neds too eggs too makee twekve biscits. howw mny egggs do youu ned too mkae thirtyy biscits",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": "B"
+    },
+    {
+      "task_id": "arith_04",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "clean": "What is fifteen percent of two hundred? Answer with just the number.",
+      "messy": "waht is fifeten peecent of too hundred? answer withh just tge nmber",
+      "messy_extreme": "Waht is fiften prcent off too hndred Anser wiith jsut tge nuber",
+      "choices": null,
+      "answer": "30"
+    },
+    {
+      "task_id": "arith_05",
+      "category": "arithmetic",
+      "type": "multiple_choice",
+      "clean": "A rectangle is eight centimetres long and three centimetres wide. What is its area in square centimetres?",
+      "messy": "a rectangle is eght centimeters loong and thrre centimeters wide. what is it's area in squre centimeters",
+      "messy_extreme": "A rectange is eightt centimeters lpng annd thre centimeters wdie Waht is it's arrea in sqare centimeters?",
+      "choices": [
+        "11",
+        "22",
+        "24",
+        "32"
+      ],
+      "answer": "C"
+    },
+    {
+      "task_id": "arith_06",
+      "category": "arithmetic",
+      "type": "short_answer",
+      "clean": "A film starts at quarter past seven in the evening and lasts two hours and forty minutes. At what time does it finish? Answer in twelve hour time like 9:55pm.",
+      "messy": "A fim starts at quarter pastt seven in the evening andd latss too hoours abd forty minutes. At waht tmie doess it finish? Answer in twelve huor tie liike 9:55pm.",
+      "messy_extreme": "a folm satrts at quarrer paast seveen in the eveinng andd lssts too huors and foty minuts. at waht timee dpes it finush? anser in tweve hoyr tie luke 9:55pm.",
+      "choices": null,
+      "answer": "9:55pm"
+    },
+    {
+      "task_id": "logic_01",
+      "category": "logic",
+      "type": "multiple_choice",
+      "clean": "All roses are flowers. Some flowers fade quickly. Which statement is definitely true?",
+      "messy": "akl rodes arre fllowers some flowers fade quickly. wich sttatement is definately true?",
+      "messy_extreme": "akl rooses are flwoers. sme flowres fdae quikly. wich ststement is definately ture",
+      "choices": [
+        "All roses fade quickly",
+        "Some roses fade quickly",
+        "All flowers are roses",
+        "At least one rose is a flower"
+      ],
+      "answer": "D"
+    },
+    {
+      "task_id": "logic_02",
+      "category": "logic",
+      "type": "short_answer",
+      "clean": "Sarah is taller than Tom. Tom is taller than Jess. Who is the shortest of the three? Answer with just the name.",
+      "messy": "sarahh is talller then tim tom is taller then jesss. who is the shoryest of the three? answer with just tje nme.",
+      "messy_extreme": "Saarh is talelr then Tomm. Tom is talelr then Jesss. Whho is thhe sgortest off tje thrwe? Anser wtih jusst the nane",
+      "choices": null,
+      "answer": "Jess"
+    }
+  ],
+  "models": [
+    {
+      "key": "glm-4.7-flash",
+      "label": "GLM-4.7 Flash",
+      "vendor": "Z.ai",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "z-ai/glm-4.7-flash",
+      "clean_acc": 0.963,
+      "messy_acc": 0.8519,
+      "headline_intensity": 1.0,
+      "retention": 0.8846,
+      "drop": 0.1111,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.963,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8889,
+          "retention": 0.9231,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8519,
+          "retention": 0.8846,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "claude-haiku-4.5",
+      "label": "Claude Haiku 4.5",
+      "vendor": "Anthropic",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "anthropic/claude-haiku-4.5",
+      "clean_acc": 0.9444,
+      "messy_acc": 0.8333,
+      "headline_intensity": 1.0,
+      "retention": 0.8824,
+      "drop": 0.1111,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9444,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8704,
+          "retention": 0.9216,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8333,
+          "retention": 0.8824,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "llama-3.3-70b",
+      "label": "Llama 3.3 70B",
+      "vendor": "Meta",
+      "size_hint": "large",
+      "backend": "openrouter",
+      "model_id": "meta-llama/llama-3.3-70b-instruct",
+      "clean_acc": 0.963,
+      "messy_acc": 0.8241,
+      "headline_intensity": 1.0,
+      "retention": 0.8558,
+      "drop": 0.1389,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.963,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8889,
+          "retention": 0.9231,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8241,
+          "retention": 0.8558,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "gemini-flash-lite",
+      "label": "Gemini 2.5 Flash-Lite",
+      "vendor": "Google",
+      "size_hint": "tiny",
+      "backend": "openrouter",
+      "model_id": "google/gemini-2.5-flash-lite",
+      "clean_acc": 0.9815,
+      "messy_acc": 0.8333,
+      "headline_intensity": 1.0,
+      "retention": 0.8491,
+      "drop": 0.1481,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9815,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.9352,
+          "retention": 0.9528,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8333,
+          "retention": 0.8491,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "gpt-4.1-mini",
+      "label": "GPT-4.1 mini",
+      "vendor": "OpenAI",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "openai/gpt-4.1-mini",
+      "clean_acc": 0.9815,
+      "messy_acc": 0.8333,
+      "headline_intensity": 1.0,
+      "retention": 0.8491,
+      "drop": 0.1481,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9815,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8426,
+          "retention": 0.8585,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8333,
+          "retention": 0.8491,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "gpt-4o-mini",
+      "label": "GPT-4o mini",
+      "vendor": "OpenAI",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "openai/gpt-4o-mini",
+      "clean_acc": 0.963,
+      "messy_acc": 0.8056,
+      "headline_intensity": 1.0,
+      "retention": 0.8365,
+      "drop": 0.1574,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.963,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8704,
+          "retention": 0.9038,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8056,
+          "retention": 0.8365,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "deepseek-v3.1",
+      "label": "DeepSeek V3.1",
+      "vendor": "DeepSeek",
+      "size_hint": "large",
+      "backend": "openrouter",
+      "model_id": "deepseek/deepseek-chat-v3.1",
+      "clean_acc": 1.0,
+      "messy_acc": 0.8148,
+      "headline_intensity": 1.0,
+      "retention": 0.8148,
+      "drop": 0.1852,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 1.0,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8796,
+          "retention": 0.8796,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8148,
+          "retention": 0.8148,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "nova-lite",
+      "label": "Nova Lite",
+      "vendor": "Amazon",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "amazon/nova-lite-v1",
+      "clean_acc": 0.9444,
+      "messy_acc": 0.713,
+      "headline_intensity": 1.0,
+      "retention": 0.7549,
+      "drop": 0.2315,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9444,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8333,
+          "retention": 0.8824,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.713,
+          "retention": 0.7549,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "mistral-small",
+      "label": "Mistral Small",
+      "vendor": "Mistral",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "mistralai/mistral-small-2603",
+      "clean_acc": 0.9444,
+      "messy_acc": 0.7037,
+      "headline_intensity": 1.0,
+      "retention": 0.7451,
+      "drop": 0.2407,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9444,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8056,
+          "retention": 0.8529,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.7037,
+          "retention": 0.7451,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "qwen-2.5-7b",
+      "label": "Qwen 2.5 7B",
+      "vendor": "Alibaba",
+      "size_hint": "tiny",
+      "backend": "openrouter",
+      "model_id": "qwen/qwen-2.5-7b-instruct",
+      "clean_acc": 0.8704,
+      "messy_acc": 0.5741,
+      "headline_intensity": 1.0,
+      "retention": 0.6596,
+      "drop": 0.2963,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.8704,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.6574,
+          "retention": 0.7553,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.5741,
+          "retention": 0.6596,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "llama-3.1-8b",
+      "label": "Llama 3.1 8B",
+      "vendor": "Meta",
+      "size_hint": "tiny",
+      "backend": "openrouter",
+      "model_id": "meta-llama/llama-3.1-8b-instruct",
+      "clean_acc": 0.7963,
+      "messy_acc": 0.4074,
+      "headline_intensity": 1.0,
+      "retention": 0.5116,
+      "drop": 0.3889,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.7963,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.6204,
+          "retention": 0.7791,
+          "n": 108
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.4074,
+          "retention": 0.5116,
+          "n": 108
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 216,
+      "errors": 0
+    }
+  ]
+}

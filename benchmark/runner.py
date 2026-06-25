@@ -20,12 +20,24 @@ from dataclasses import dataclass
 from .corruptor import corrupt
 from .scoring import score
 
-SYSTEM_PROMPT = (
+_BASE_INSTRUCTION = (
     "You are a careful assistant taking a short quiz. Read each question and "
     "answer as briefly as possible. For multiple choice, reply with ONLY the "
     "letter (A, B, C or D) and nothing else. For every other question, give the "
     "shortest possible answer with no explanation."
 )
+
+# Two system-prompt profiles, so we can measure whether *telling* the model that
+# the user is dyslexic and may misspell things actually helps it understand them.
+SYSTEM_PROMPTS = {
+    "baseline": _BASE_INSTRUCTION,
+    "aware": _BASE_INSTRUCTION + (
+        " Important: the person asking is dyslexic and often makes spelling "
+        "mistakes and typos. Do not worry about their spelling at all — focus on "
+        "what they clearly mean and answer the question they intended to ask."
+    ),
+}
+SYSTEM_PROMPT = SYSTEM_PROMPTS["baseline"]  # default / backwards compatible
 
 
 @dataclass
@@ -54,7 +66,8 @@ def _post(url: str, headers: dict, body: dict, timeout: int) -> tuple[int, dict]
 
 
 def call_model(backend_cfg: dict, model: str, user_msg: str,
-               timeout: int = 90, max_tokens: int = 800, retries: int = 3) -> CallResult:
+               timeout: int = 90, max_tokens: int = 800, retries: int = 3,
+               system_prompt: str | None = None) -> CallResult:
     url = backend_cfg["base_url"].rstrip("/") + "/chat/completions"
     api_key = os.environ.get(backend_cfg.get("api_key_env", ""), "") or backend_cfg.get("api_key_default", "")
     headers = {
@@ -65,7 +78,7 @@ def call_model(backend_cfg: dict, model: str, user_msg: str,
         "X-Title": "LLM Spell Bench",
     }
     messages = [
-        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "system", "content": system_prompt or SYSTEM_PROMPT},
         {"role": "user", "content": user_msg},
     ]
     full = {"model": model, "messages": messages, "temperature": 0, "max_tokens": max_tokens}
@@ -106,7 +119,7 @@ def build_user_message(task: dict, prompt_text: str) -> str:
 
 def run_model(model_cfg: dict, backend_cfg: dict, tasks: list[dict], *,
               seed: int, intensities: list[float], trials: int, concurrency: int,
-              timeout: int = 90, progress=None) -> dict:
+              timeout: int = 90, system_prompt: str | None = None, progress=None) -> dict:
     """
     Run every task for one model across a sweep of corruption intensities.
 
@@ -131,7 +144,8 @@ def run_model(model_cfg: dict, backend_cfg: dict, tasks: list[dict], *,
 
     def work(idx):
         task, inten, t, msg = jobs[idx]
-        res = call_model(backend_cfg, model_cfg["model"], msg, timeout=timeout)
+        res = call_model(backend_cfg, model_cfg["model"], msg, timeout=timeout,
+                         system_prompt=system_prompt)
         correct = score(task, res.text) if res.text is not None else False
         return idx, {
             "task_id": task["id"],

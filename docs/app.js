@@ -310,5 +310,51 @@
   if (inputEl) inputEl.addEventListener("input", updatePredictor);
   updatePredictor();
 
+  /* ---------- "does telling it you're dyslexic help?" experiment ---------- */
+  (function renderPromptEffect() {
+    const fx = window.PROMPT_EFFECT;
+    if (!fx || !fx.models || !fx.models.length) return;
+    const section = document.getElementById("promptfx");
+    const display = fx.intensities[fx.intensities.length - 1]; // hardest level
+    const summary = (fx.summary || []).find((s) => Math.abs(s.intensity - display) < 1e-6);
+    if (!summary) return;
+
+    const deltaPts = summary.avg_delta * 100;
+    const verdict = Math.abs(deltaPts) < 1.5 ? "almost nothing"
+      : deltaPts > 0 ? "a small help" : "slightly worse";
+    const headlineNum = (deltaPts >= 0 ? "+" : "") + deltaPts.toFixed(1) + " pts";
+    document.getElementById("pfx-headline").innerHTML =
+      `<div class="stat-card feature">
+         <div class="num">${headlineNum}</div>
+         <div class="label">average change in messy-question accuracy at the hardest level (${Math.round(display * 100)}% mangled)
+         when you add <strong>"I'm dyslexic"</strong> to the prompt — <strong>${verdict}</strong>.
+         Of ${summary.n_models} models, ${summary.helped} did a bit better and ${summary.hurt} a bit worse.
+         The models already understood the messy questions without being told.</div>
+       </div>`;
+
+    const rows = fx.models.map((m) => {
+      const p = m.points.find((q) => Math.abs(q.intensity - display) < 1e-6);
+      if (!p) return "";
+      const d = p.delta * 100;
+      const cls = d > 0.5 ? "delta-pos" : d < -0.5 ? "delta-neg" : "delta-flat";
+      const sign = d > 0 ? "+" : "";
+      return `<tr>
+        <td><span class="model-name">${m.label}</span>${m.local ? '<span class="badge local">local</span>' : ""}<span class="model-vendor">${m.vendor}</span></td>
+        <td class="num">${Math.round(p.baseline * 100)}%</td>
+        <td class="num">${Math.round(p.aware * 100)}%</td>
+        <td class="num ${cls}">${sign}${d.toFixed(0)} pts</td>
+      </tr>`;
+    }).join("");
+    document.getElementById("pfx-body").innerHTML = rows;
+
+    const at06 = (fx.summary || []).find((s) => Math.abs(s.intensity - 0.6) < 1e-6);
+    document.getElementById("pfx-caption").textContent =
+      `Messy-question accuracy at ${Math.round(display * 100)}% of words mangled, with the plain prompt vs the "I'm dyslexic" prompt. ` +
+      (at06 ? `At a milder 60% level the average change was ${(at06.avg_delta * 100 >= 0 ? "+" : "")}${(at06.avg_delta * 100).toFixed(1)} pts. ` : "") +
+      `Same questions and same corruptions in both runs.`;
+
+    section.hidden = false;
+  })();
+
   document.getElementById("generated-at").textContent = "Last run: " + (data.generated_at || "—");
 })();

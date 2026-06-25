@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24 23:20 UTC",
+  "generated_at": "2026-06-24 23:50 UTC",
   "config": {
     "n_tasks": 54,
     "intensities": [
@@ -119,6 +119,60 @@
   ],
   "models": [
     {
+      "key": "glm-5.2",
+      "label": "GLM-5.2",
+      "vendor": "Z.ai",
+      "size_hint": "frontier",
+      "backend": "openrouter",
+      "model_id": "z-ai/glm-5.2",
+      "clean_acc": 0.9815,
+      "messy_acc": 0.9506,
+      "headline_intensity": 0.6,
+      "retention": 0.9686,
+      "drop": 0.0309,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9815,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9877,
+          "retention": 1.0063,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9753,
+          "retention": 0.9937,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.9506,
+          "retention": 0.9686,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.9506,
+          "retention": 0.9686,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.9444,
+          "retention": 0.9623,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
       "key": "gpt-5.5",
       "label": "GPT-5.5",
       "vendor": "OpenAI",
@@ -165,6 +219,60 @@
           "intensity": 1.0,
           "acc": 0.9321,
           "retention": 0.9321,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "glm-4.7-flash",
+      "label": "GLM-4.7 Flash",
+      "vendor": "Z.ai",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "z-ai/glm-4.7-flash",
+      "clean_acc": 0.9815,
+      "messy_acc": 0.9136,
+      "headline_intensity": 0.6,
+      "retention": 0.9308,
+      "drop": 0.0679,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9815,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.9383,
+          "retention": 0.956,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.9012,
+          "retention": 0.9182,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.9136,
+          "retention": 0.9308,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.9012,
+          "retention": 0.9182,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8457,
+          "retention": 0.8616,
           "n": 162
         }
       ],
@@ -273,6 +381,102 @@
           "intensity": 1.0,
           "acc": 0.821,
           "retention": 0.8693,
+          "n": 162
+        }
+      ],
+      "n_clean": 54,
+      "n_messy": 810,
+      "errors": 0
+    },
+    {
+      "key": "gpt-oss-20b-local",
+      "label": "GPT-OSS 20B (local)",
+      "vendor": "Local",
+      "size_hint": "small",
+      "backend": "lmstudio",
+      "model_id": "openai/gpt-oss-20b",
+      "clean_acc": 0.9444,
+      "messy_acc": 0.8611,
+      "headline_intensity": 0.6,
+      "retention": 0.9118,
+      "drop": 0.0833,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9444,
+          "retention": 1.0,
+          "n": 36
+        },
+        {
+          "intensity": 0.3,
+          "acc": 0.8889,
+          "retention": 0.9412,
+          "n": 72
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.8611,
+          "retention": 0.9118,
+          "n": 72
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.8056,
+          "retention": 0.8529,
+          "n": 72
+        }
+      ],
+      "n_clean": 36,
+      "n_messy": 216,
+      "errors": 0
+    },
+    {
+      "key": "nova-lite",
+      "label": "Nova Lite",
+      "vendor": "Amazon",
+      "size_hint": "small",
+      "backend": "openrouter",
+      "model_id": "amazon/nova-lite-v1",
+      "clean_acc": 0.9259,
+      "messy_acc": 0.821,
+      "headline_intensity": 0.6,
+      "retention": 0.8867,
+      "drop": 0.1049,
+      "curve": [
+        {
+          "intensity": 0.0,
+          "acc": 0.9259,
+          "retention": 1.0,
+          "n": 54
+        },
+        {
+          "intensity": 0.2,
+          "acc": 0.8889,
+          "retention": 0.96,
+          "n": 162
+        },
+        {
+          "intensity": 0.4,
+          "acc": 0.8148,
+          "retention": 0.88,
+          "n": 162
+        },
+        {
+          "intensity": 0.6,
+          "acc": 0.821,
+          "retention": 0.8867,
+          "n": 162
+        },
+        {
+          "intensity": 0.8,
+          "acc": 0.7716,
+          "retention": 0.8333,
+          "n": 162
+        },
+        {
+          "intensity": 1.0,
+          "acc": 0.7531,
+          "retention": 0.8133,
           "n": 162
         }
       ],

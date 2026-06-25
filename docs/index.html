@@ -110,6 +110,30 @@
       <p class="caption" id="breaking-caption"></p>
     </section>
 
+    <section class="promptfx" id="promptfx" aria-labelledby="pfx-h" hidden>
+      <h2 id="pfx-h">Does telling the AI you're dyslexic help?</h2>
+      <p class="section-sub">
+        We re-ran the messy questions with one tiny change: a line in the system prompt saying
+        <em>"the person is dyslexic and may misspell things — focus on what they mean."</em>
+        Same questions, same typos. Here's whether that one sentence moved the needle.
+      </p>
+      <div class="pfx-headline" id="pfx-headline"></div>
+      <div class="table-wrap">
+        <table id="pfx-table">
+          <thead>
+            <tr>
+              <th scope="col">Model</th>
+              <th scope="col" class="num">Plain prompt</th>
+              <th scope="col" class="num">“I'm dyslexic” prompt</th>
+              <th scope="col" class="num">Change</th>
+            </tr>
+          </thead>
+          <tbody id="pfx-body"></tbody>
+        </table>
+      </div>
+      <p class="caption" id="pfx-caption"></p>
+    </section>
+
     <section class="predictor" aria-labelledby="pred-h">
       <h2 id="pred-h">Try it: type it badly, see if it still works</h2>
       <p class="section-sub">
@@ -208,6 +232,7 @@
   </footer>
 
   <script src="data/leaderboard.js"></script>
+  <script src="data/prompt_effect.js"></script>
   <script src="data/words.js"></script>
   <script src="corruptor.js"></script>
   <script src="app.js"></script>
